@@ -1,0 +1,2 @@
+# Manifiesto
+codigo de manifiesto
